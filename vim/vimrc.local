@@ -1,0 +1,5 @@
+set guifont=Fira\ Mono\ for\ Powerline:h15
+set guioptions-=r               " remove right-hand scrollbar
+set guioptions-=L               " remove left-hand scrollbar
+set relativenumber
+
