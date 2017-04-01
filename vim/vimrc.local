@@ -2,4 +2,12 @@ set guifont=Fira\ Mono\ for\ Powerline:h15
 set guioptions-=r               " remove right-hand scrollbar
 set guioptions-=L               " remove left-hand scrollbar
 set relativenumber
-
+" setting tab size to 2
+set smarttab
+set tabstop=8
+set softtabstop=2
+set shiftwidth=2
+set expandtab
+" setting max line width
+set textwidth=80
+set colorcolumn=80
