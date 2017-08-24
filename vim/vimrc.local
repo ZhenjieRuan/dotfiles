@@ -11,3 +11,6 @@ set expandtab
 " setting max line width
 set textwidth=80
 set colorcolumn=80
+colorscheme seti
+
+source $LOCAL_ADMIN_SCRIPTS/master.vimrc
